@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning peece shot off from Ireland to England, charged home with good counsell, by a truhearted Englishman, a mourner in Sion. Wherein these evill dayes, and dangerous times (without reflecting upon any particular persons) are plainly set forth.</title>
+            <author>Truhearted Englishman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97195</idno>
+            <idno type="STC">Wing W930</idno>
+            <idno type="STC">Thomason E136_24</idno>
+            <idno type="STC">ESTC R3808</idno>
+            <idno type="EEBO-CITATION">99872500</idno>
+            <idno type="PROQUEST">99872500</idno>
+            <idno type="VID">156478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156478)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E136[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning peece shot off from Ireland to England, charged home with good counsell, by a truhearted Englishman, a mourner in Sion. Wherein these evill dayes, and dangerous times (without reflecting upon any particular persons) are plainly set forth.</title>
+                  <author>Truhearted Englishman.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156478:1" rendition="simple:additions"/>
+            <p>A WARNING PEECE</p>
+            <p>Shot off from <hi>Freland</hi> to <hi>England,</hi> charged home with good counſell, by a tru<g ref="char:EOLhyphen"/>hearted <hi>Engliſhman,</hi> a mourner in SION.</p>
+            <p>WHEREIN Theſe evill dayes, and dangerous Times (without reflecting upon any particular perſons) are plainly ſet forth.</p>
+            <q xml:lang="lat">
+               <l>—pecces quocunque ſub axe</l>
+               <l>Sub <hi>Iove</hi> ſemper eris.</l>
+            </q>
+            <p>LONDON, Printed 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:156478:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>He manifold ſchiſmes &amp; rents in the Church, the manifeſt diviſions and diſſentions in the Common-wealth, as they cannot but afflict us with grief, ſo they may juſtly affright us with feare, that the Goſpel of the Sonne of God may ſhortly come to ſuffer as great an Eclipſe in theſe Kingdomes, as the Sunne did in the firmament, when the Son of God Chriſt Jeſus ſuffered upon the Croſſe, which was univerſall, miraculous. For if wee doe but weigh and conſider with our ſelves, the fearfull, crying, crimſon ſins of the times, how few <hi>Shunamites</hi> return, how the zeale of God is dryed up in the hearts of men, how God is ſerved for cuſtome, and not upon conſcience ſake, for faſhion, ra<g ref="char:EOLhyphen"/>ther then in ſincerity of affection, what can we, nay, what may we expect elſe, but that the Almighty inſtead of his armes full of mercy, peace, and plenty, thus long held out amongſt us, hath now gathered his lap full of plagues, and is powring them down upon us? Yet forty days ſaid <hi>Jona,</hi> and <hi>Nineveh,</hi> ſhall be deſtroyed, true, if <hi>Nineveh,</hi> repent not, and may not we as truly ſay, yet not five moneths, and <hi>England</hi> ſhall be deſtroyed, if <hi>England</hi> amend not? feare we, and it ſtands us every one upon to pray and feare, leſt wee are they of whom our Saviour ſpeaks in his Goſpel, <hi>Mat<g ref="char:EOLhyphen"/>thew</hi>
+               <pb n="3" facs="tcp:156478:2"/>21.43. <hi>The Kingdome of Heaven ſhall be taken from you,</hi> or as he ſpeaks by his Prophet, <hi>Amos</hi> 3.2. You only of al the Nations of the World have I loved, therefore, I wil viſit you for your ſins. Your ſins have no leſſe incited, and provoked the Lord, then the ſins of your neere, deere Countrymen and Friends in <hi>Ireland,</hi> your ſins are not leſſe then theirs, that your ſufferings ſhould be lighter, and doe you not heare how the Lord hath viſited them? Them that ſo lately lived at eaſe, abounding in plenty, ſeated (as they conceited) in the <hi>Eden</hi> of the World, and had built their Neſts ſo high, the Lord hath humbled them, brought them low, and lower yet they are like to be brought.</p>
+            <p>
+               <hi>Ob.</hi> But they were grievous ſinners, tranſcendent ſinners, their ſins were the ſins of <hi>Sodome,</hi> that ſink of ſinne, pride, idleneſſe, fulneſſe of bread, and unmercifulneſſe to the poore, adde we, they were great oppreſſors, fearefull ſwea<g ref="char:EOLhyphen"/>rers, blaſphemers, common Sabbath-breakers, and theſe laſt evils have layn long in the deck, and now draw Gods heavy judgments upon them, ſay all this is granted.
+<q xml:lang="lat">
+                  <l>—Pudet haec opprobria nobis</l>
+                  <l>Et dici potuiſse, &amp; non potuiſse refelli.</l>
+               </q>
+            </p>
+            <p>
+               <hi>Sol.</hi> But ſtay your cenſure, and heare the Apoſtle ſpeak<g ref="char:EOLhyphen"/>ing, Thou that ſaiſt, another ſhould not ſteale, doſt thou ſteale? &amp;c. The rule is not more ancient, then true, Where there is no Reformation in Action, there is no alte<g ref="char:EOLhyphen"/>ration in the Affection, then lay your <hi>hand</hi> on the mouth with <hi>Iob,</hi> and ſay. Once have I ſpoken, but I abhor my ſelfe, &amp;c. or reflect as <hi>Iudah</hi> did upon his Act, with <hi>Tamar, Gen.</hi> 38.26. Thou art more holy than I; and doth not holi<g ref="char:EOLhyphen"/>neſſe become Gods Houſe? but behold hollowneſſe, hollo<g ref="char:EOLhyphen"/>neſſe in your thoughts, hollownes in your words, hollownes in your actions: Hollowneſſe in your thoughts, it being
+<pb n="4" facs="tcp:156478:3"/>the common beliefe and opinion (ſpecially of ſeverall Sectariſts) that there are none or very few ſincere Chri<g ref="char:EOLhyphen"/>ſtians in <hi>Ireland,</hi> but men of debaucht life, vile converſa<g ref="char:EOLhyphen"/>tion, ſuch as <hi>England</hi> had ſpewed out, whence they inſerre (by words) that it is the juſt Judgement of God, toweed them out, that <hi>in poſterum,</hi> that Kingdome may be planted with ſuch as will bring forth the fruits of the Spirit. And doe not their Actions ſhew as much in affording them no timely Aide,
+<q xml:lang="lat">Vt nemo in ſeſe tentat deſcendere, nemo?</q>
+            </p>
+            <p>Say they are ſuperfluous branches, yet preſerve them for your Orchard of <hi>Englands</hi> ſhade they may keep a ſtorm from you. Say they are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (value them at the loweſt.)</p>
+            <p>Such members as the World might well want, yet ſuch (as being moſt loyall to our gracious Sovereigne) might ſtand you in ſteed, and being preſerved might ſtand to you in time of need. Did you never ſee a barren prop uphold a fruitfull Vine? but this is <hi>ex non conceſsis,</hi> and we muſt tell you, that <hi>veſtra res agitur,</hi> and the Catholikes (for ſo they'l be now called) are but pricking you through our ſides, and wil ſhortly, very ſhortly (without timely prevention) wound you, <hi>propriis ſpinis.</hi> Looke to your <hi>Edomites</hi> with their no God, your <hi>Babylonians</hi> with their new God, your diſſolute Atheiſts, your reſolute bloudy-hearted and bloudy-handed Papiſts (to ſay nothing of the Browniſts, Anabaptiſts, fa<g ref="char:EOLhyphen"/>natical Familiſts, and many other Sects ſwarming amongſt you and ſay, if a City or Kingdome ſo divided can long ſtand.</p>
+            <p>Diviſion is moſt pernitious to thoſe parts, whoſe life and ſafety is in Vnity. <hi>Divide &amp; impera,</hi> is the Devils grand maſter-piece; our Enemies could never conquer us were we
+<pb n="5" facs="tcp:156478:3"/>unanimous, but plowing with our Heifer they prevail, ma<g ref="char:EOLhyphen"/>king ſome men Decoyes to betray others. But, me thinks, I heare the Times Polititian replying,
+<q xml:lang="lat">O Coridon, Coridon, quaete dementia coepit?</q>
+            </p>
+            <p>To whom I anſwer as I have read, That whiles the Cro<g ref="char:EOLhyphen"/>codile ſleeps gaping with open mouth, the <hi>Indian</hi> Rat ſhoots himſelfe into his belly, and gnaws his guts in ſun<g ref="char:EOLhyphen"/>der: Whilſt the men of <hi>Laiſh</hi> lived quiet and ſecure, <hi>Judges</hi> 18.7. the <hi>Danites</hi> come upon them and ſmite them with the ſword, and burn up their Cities, <hi>Verſe</hi> 27. So entreth miſchiefe at the open gates of ſecuritie; and this is moſt dangerous, <hi>facilius opprimitur qui nihiltimet,</hi> he is moſt eaſily ſurpriſed that forecaſts no perils, dangerleſſe feare is better then fearleſſe danger. Danger is like the Baſiliske if fore<g ref="char:EOLhyphen"/>ſeen it dies, if not, it deſtroyes. My Lords of <hi>Athens,</hi> ſaid <hi>Demoſthenes</hi> (once ſeriouſly jeſting) how vigilant ought we to be, ſeeing we have thieves of braſſe, and walles of clay. And will you never feare more then you ſeele, never dread danger till it knock at your doores? Are wicked men in a State, as ill humours in the body, if they be not corrected, ſuppreſſed, all muſt periſh, and are you not in danger? Are your Enemies of unwearied vigilancy for miſchiefe, and your Religion, and their ſuperſtition unconſiſtent, and are you not in danger? is that State moſt miſerable, where e<g ref="char:EOLhyphen"/>very man makes his owne Religion and Law, and are you not in danger? Theſe things wiſely wayed, muſt teach you to debate: Men and brethren, what ſhall we doe? the Eccho anſwers doe, debate no longer, doe, or elſe un<g ref="char:EOLhyphen"/>done. The Goſpel, Religion lyes at ſtake, and if you bid not faire for it, and that by Armes, and that very ſpeedily,
+<pb n="6" facs="tcp:156478:4"/>
+               <hi>Actum eſt,</hi> and your judgment ſleepeth not. It is good po<g ref="char:EOLhyphen"/>licy with men to reſtraine that nature by force which will not be wonne by faire meanes. If faire means would ever have prevailed, how hath our gracious Sovereign &amp; his pre<g ref="char:EOLhyphen"/>deceſſors (of moſt bleſſed memory) endevored that way? but we find and feele (and you may feare no leſſe) that there is nothing more dangerous then ſuperſtition, or the falſe wor<g ref="char:EOLhyphen"/>ſhip of the true God. After the bloudy <hi>quinqennium</hi> of Q. <hi>Mary,</hi> and pious <hi>Elizabeth</hi> placed in the Throne, many that were addicted to the <hi>Roman</hi> ſuperſtition,<note place="margin">Apolog. of Ec<g ref="char:EOLhyphen"/>cleſiaſticall Hie<g ref="char:EOLhyphen"/>rarch cap <hi>1.</hi> An Dom. <hi>1569.15.</hi> Rig Eliz.</note> communicated with us in Divine Service, free from all puniſhment or mo<g ref="char:EOLhyphen"/>leſtation, and enjoyed common favours and benefits with other of her Majeſties loyall Subjects, but the Pope per<g ref="char:EOLhyphen"/>ceiving that by this conſociation with our Church all hope would ſoon be loſt (by any help from a home party) of re<g ref="char:EOLhyphen"/>ducing this Kingdome to his ſubjection, ſends <hi>Morton</hi> an <hi>Engliſh</hi> Prieſt to declare by his Papall Authoritic unto the then Earls of <hi>Northumberland</hi> and <hi>Weſtmerland,</hi> that Queene <hi>Elizabeth</hi> was an Heretike,<note place="margin">Slow in Annal. <hi>12.</hi> Eliz.</note> and therefore they were not ſub<g ref="char:EOLhyphen"/>ject to her Laws. Whereupon they raiſed an Army which was ſoon defeated. But <hi>Pius Quintus</hi> was ſtill the ſame, and forthwith a Bull is publiſhed, wherein out of the fulneſſe of his power,<note place="margin">An Dom. <hi>1570.12.</hi> Eliz.</note> Queene <hi>Elizabeth</hi> is denounced an Heretike, and that ſuch as did cleave unto her ſhould incur his Curſe, and that ſhee was deprived of all Dominion, and Dignitie; that her Nobles and people, or any other that had ſworne obedience unto her, were freed from that Oath, and from all Allegiance and fidelity; commanding them not to obey her Laws upon pain of his Curſe. And that this Bull might be ſeen, heard, and feared; it is faſtned by one <hi>Felton</hi> (a Fu<g ref="char:EOLhyphen"/>gitive, deeply plunged in the <hi>Roman</hi> ſuperſtiton) upon the Gates of the Biſhop of <hi>Londons</hi> Palace. But this Bull did
+<pb n="7" facs="tcp:156478:4"/>not yet roare loud enough, therefore <hi>Gregorie</hi> the thir<g ref="char:EOLhyphen"/>teenth who ſucceeded <hi>Pius Quintus,</hi> confirmes,<note place="margin">Anno <hi>1578.14.</hi> Eliz.</note> and rati<g ref="char:EOLhyphen"/>fies this Bull, endevouring to give him more breath and life. <hi>Briſtow</hi> and <hi>Allen</hi> were herein very buſie; but <hi>Cam<g ref="char:EOLhyphen"/>pian</hi> and <hi>Parſons,</hi> by their plauſible perſwaſions prevailed with many; and <hi>Saunders</hi> by violence and force of Armes (with an Army from the Pope, ſuccouring the Rebell <hi>Deſmond</hi>) enthralled mens perſons in <hi>Ireland,</hi> and now they are worſe enthralled, the Lord comfort them. What ſhould I ſay of their bloudie Enterpriſes of <hi>Arden, Parry,</hi>
+               <note place="margin">An. <hi>1582.25.</hi> Eliz</note>
+               <hi>and many others of the ſame rank againſt her ſacred Majeſty.</hi>) All theſe notorious ſeditions and ſanguinary attempts againſt Queen <hi>Elizabeth</hi> of bleſſed Memory, did our laſt gracious Sovereigne King <hi>Iames,</hi> right well reſent, and could not but in his Princely wiſdome more then conjecture that the like diſloyall attempts might be practiſed againſt his ſacred Dignitie and perſon by theſe <hi>Romaniſts,</hi> yet hoping by the light of the Goſpel, to extinguiſh the <hi>Egyptian</hi> darkneſſe of Popery, and out of his gracious inclination to pity and mercy, deſiring to conquer evill with goodnes in the beginning of his Reigne (his Majeſties clemencie was rare and admirable) hee ſets at liberty all Jeſuits,<note place="margin">Anno <hi>1603.</hi>
+               </note> and Prieſts, that were impriſoned, and unto ſuch as lurked in ſecret corners of the Land, hee gave them leave openly to profeſſe themſelves to be ſuch, ſo that both by a certaine day would depart the Realme. And as hee began, ſo hee ended his Reigne, with all manner of clemency and mer<g ref="char:EOLhyphen"/>cy towards them. <hi>And our gracious Sovereigne,</hi> treading the ſteps of his wife and peaceable Predeceſſours, hath ſtill beene moſt gentle and indulgent towards them. Them whoſe Truſt is Treaſon, whoſe Faith is Faction, whoſe Religion is Rebellion. Doe we not ſee and feel the wofull
+<pb n="8" facs="tcp:156478:5"/>effects of his Majeſties clemency &amp; others connivencie at Popery? There is no more to be ſaid. Something muſt be done, or elſe ſhortly all will be undone: Their Idolatry muſt be reſtrained, or our Religion cannot long be retai<g ref="char:EOLhyphen"/>ned. Set on, or looke ſhortly for an onſet. Up be going or doing, flie or fight for your lives. The laſt is moſt ho<g ref="char:EOLhyphen"/>nourable, warrantable; Then gather your ſelves toge<g ref="char:EOLhyphen"/>ther, and let every man ſay, with good <hi>Nehemiah,</hi> Sh<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l ſuch a man as I am Fly? The Lord of hoſts be with you, the God of <hi>Jacob</hi> be our refuge. <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
